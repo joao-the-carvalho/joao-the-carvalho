@@ -4,6 +4,8 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seon.draws/)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Seonn/)
 
+<img src="https://pin.it/3yPFoD53V">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-the-carvalho&show_icons=true&theme=tokyonight)
 
 ### Coisas que eu to aprendendo/já sei um pouco atualmente
