@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/p33PRHj/1FCdHTat.gif" width="200">
 </div>
 
-### Oi!! Meu nome é João, e sou estudante de Analise e Desenvolvimento de Sistemas. 👋👨‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi!!!+meu+nome+é+João+e+eu+sou+um+estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Abaixo+estão+os+links+das+minhas+redes+sociais+e+meu+site:)](https://git.io/typing-svg)
 ### Abaixo, estão os links das minhas redes sociais e do meu site:
 [![site](https://img.shields.io/website?label=IndestructibleComic&style=website-up-down-green-red&url=https://joao-the-carvalho.github.io/Indestructiblesite/)](https://joao-the-carvalho.github.io/Indestructiblesite/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/Seonn)
