@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content:center;">
 <img src="https://i.ibb.co/p33PRHj/1FCdHTat.gif" width="200">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-the-carvalho&show_icons=true&theme=tokyonight)
+![Anurag'sGitHubstats](https://github-readme-stats.vercel.app/api?username=joao-the-carvalho&show_icons=true&theme=tokyonight)
 
 ### Coisas que estou aprendendo/já sei um pouco atualmente
 
