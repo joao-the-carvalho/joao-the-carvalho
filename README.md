@@ -25,6 +25,4 @@
 <img align="center" alt="Evangelion" src="https://camo.githubusercontent.com/17cde94c12d32751b88b68447d401338f5b8bd15802ee330076e8b43fdc2a3b1/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d656368612d312e706e67">
 <img align="center" alt="Oyasumi Punpun" src="https://camo.githubusercontent.com/afd4edf563a3874caf5349375a9e0e9eb966aa077b1c37a4f855d931a20c734f/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d64726f707065642d302e676966">
 <img align="center" alt="Berserk" src="https://camo.githubusercontent.com/492815d9483ba8947d3c7081f5e146bd11ac408bac2ce49cbaf7516369bd9d2c/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d74696d652d322e706e67">
-<img align="center" alt="Azumanga Daioh" src="https://i.ibb.co/L8dVsCk/zumanga-removebg-preview.png" width="150" >
-
-![snake gif](https://github.com/joao-the-carvalho/joao-the-carvalho/blob/output/github-contribution-grid-snake.svg)
+<img align="center" alt="Azumanga Daioh" src="https://i.ibb.co/L8dVsCk/zumanga-removebg-preview.png" width="150">
