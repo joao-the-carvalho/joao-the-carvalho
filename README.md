@@ -35,19 +35,24 @@
 
 
 ### Essas são algumas obras que gosto:
-
+<div style="display:inline-block">
 <img align="center" alt="Evangelion" src="https://camo.githubusercontent.com/17cde94c12d32751b88b68447d401338f5b8bd15802ee330076e8b43fdc2a3b1/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d656368612d312e706e67">
 <img align="center" alt="Oyasumi Punpun" src="https://camo.githubusercontent.com/afd4edf563a3874caf5349375a9e0e9eb966aa077b1c37a4f855d931a20c734f/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d64726f707065642d302e676966">
 <img align="center" alt="Berserk" src="https://camo.githubusercontent.com/492815d9483ba8947d3c7081f5e146bd11ac408bac2ce49cbaf7516369bd9d2c/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d74696d652d322e706e67">
 <img align="center" alt="Azumanga Daioh" src="https://i.ibb.co/L8dVsCk/zumanga-removebg-preview.png" width="150">
+</div>
 
 ### E esses são alguns dos meus álbuns musicais favoritos:
+<div style="display: inline-block">
 <img alt="IGOR" src="https://upload.wikimedia.org/wikipedia/en/5/51/Igor_-_Tyler%2C_the_Creator.jpg" width="200">
 <img alt="MBDTF" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/MBDTF_ALT.jpg/220px-MBDTF_ALT.jpg" width="200">
 <img alt="TPAB" src="https://upload.wikimedia.org/wikipedia/pt/c/c9/To_Pimp_a_Butterfly.jpg" width="200">
+<br>
 <img alt="Kalledy" src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/89/29/5889299b-38ea-5ce6-8564-0594badaacf2/198342395677_cover.jpg/600x600bf-60.jpg" width="200">
 <img alt="Construção" src="https://s2-g1.glbimg.com/W6bN0XGqdNN54KNlaROvb3ZDaFs=/0x0:1600x1600/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Q/Q/BwKPFHQda860UKzrVEbg/chicobuarqueconstrucaolpcapa.jpg" width="200">
 <img alt="Bittersweet" src="https://images.genius.com/2dab0b2f3a4728be037733adab3fff5c.1000x1000x1.jpg" width="200">
+<br>
 <img alt="OK Computer" src="https://upload.wikimedia.org/wikipedia/pt/2/27/Okcomputer.jpg" width="200">
 <img alt="Slipknot" src="https://upload.wikimedia.org/wikipedia/pt/5/51/Slipknotdebutcapa.jpg" width="200">
 <img alt="Stratosphere" src="https://upload.wikimedia.org/wikipedia/en/d/d1/Duster_-_Stratosphere_front_cover.jpg" width="200">
+</div>
