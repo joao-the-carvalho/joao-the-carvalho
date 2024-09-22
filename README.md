@@ -1,10 +1,10 @@
 ## Bem vindo ao meu perfil!
 ![](https://github.com/joao-the-carvalho/joao-the-carvalho/blob/main/gifs/osaiki.gif)
 <img src="https://github.com/joao-the-carvalho/joao-the-carvalho/blob/main/gifs/rubiks.webp" width="200" height="200">
-## Este é o link para o meu site
+## Este é o link para o meu site (atualmente ele está em processo de reconstrução, então vai demorar um pouco para voltar ao ar):
 [![site](https://img.shields.io/website?label=IndestructibleComic&style=website-up-down-green-red&url=https://joao-the-carvalho.github.io/Indestructiblesite/)](https://joao-the-carvalho.github.io/Indestructiblesite/)
 
-## Esse são meus Stats no Github
+## Esse são meus Stats no Github:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-the-carvalho&show_icons=true&theme=tokyonight)
 ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-the-carvalho&theme=tokyonight)
 <hr>
