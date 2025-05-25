@@ -7,7 +7,7 @@
 ## Esse são minhas estatísticas no Github:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-the-carvalho&show_icons=true&theme=shadow_red)
 ## Aqui minhas principais linguagens de programação:
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-the-carvalho&theme=tokyonight)
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-the-carvalho&theme=shadow_red)
 #### Aqui são as tecnologias que estou aprendendo ou que atualmente uso, em uma ordem de maior proficiência (ou de frequência de uso) para menor.
 <div style="display:flex;">
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true">
