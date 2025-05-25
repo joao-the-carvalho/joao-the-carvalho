@@ -10,5 +10,3 @@
 ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-the-carvalho&theme=tokyonight)
 ## Aqui são as tecnologias que estou aprendendo ou que atualmente uso, em uma ordem de maior proficiência (ou de frequência de uso) para menor.
 <hr>
-[![HTML](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png)
-[![CSS](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png)
