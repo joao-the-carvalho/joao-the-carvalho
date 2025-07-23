@@ -17,8 +17,5 @@
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png?raw=true">
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true">
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png?raw=true">
-    <img src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png" width=64>
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width=64>
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width=64>
 </div>
