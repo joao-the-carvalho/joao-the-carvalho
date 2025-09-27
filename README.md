@@ -1,9 +1,5 @@
 ## Bem vindos ao meu perfil!
 
-
-## Este é o link para o meu site pessoal de desenhos (não sei quando volta):
-[![site](https://img.shields.io/website?label=IndestructibleComic&style=website-up-down-green-red&url=https://joao-the-carvalho.github.io/Indestructiblesite/)](https://joao-the-carvalho.github.io/Indestructiblesite/)
-
 ## Esse são minhas estatísticas no Github:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-the-carvalho&show_icons=true&theme=shadow_red)
 ## Aqui minhas principais linguagens de programação:
@@ -19,3 +15,4 @@
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png?raw=true">
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true">
 </div>
+
